@@ -25,4 +25,4 @@ Therefore, the tools provided in the notebook will be helpful towards that end.
 ### Use
 Please give credit to __*devoted koalas* of NMA 2021 Neuroscience__, if you decide to use the notebook and its tools in any substantial work.
 
-All tools are well documented & should be a plug-and-play for anyone who is sufficiently familiar with Python and its machine learning & data analysis libraries. All you need is the original dataset (Mini-Track), which can be downloaded at http://algonauts.csail.mit.edu/challenge.html, and our annotations, included in the repo.
+All tools are well documented & should be a plug-and-play for anyone who is sufficiently familiar with Python and its machine learning & data analysis libraries. All you need is the original dataset (Mini-Track), which can be downloaded at http://algonauts.csail.mit.edu/challenge.html, and our annotations, included in the repo. However, you will need to re-order the folder structures for it to work on your machine.
