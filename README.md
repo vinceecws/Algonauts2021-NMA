@@ -26,3 +26,13 @@ Therefore, the tools provided in the notebook will be helpful towards that end.
 Please give credit to __*devoted koalas* of NMA 2021 Neuroscience__, if you decide to use the notebook and its tools in any substantial work.
 
 All tools are well documented & should be a plug-and-play for anyone who is sufficiently familiar with Python and its machine learning & data analysis libraries. All you need is the original dataset (Mini-Track), which can be downloaded at http://algonauts.csail.mit.edu/challenge.html, and our annotations, included in the repo. However, you will need to re-order the folder structures for it to work on your machine.
+
+</br>
+
+<p align="center">
+  <img width="700" alt="Screen_Shot_2021-07-23_at_4 02 17_AM" src="https://user-images.githubusercontent.com/19466657/127380817-b95a1530-baab-4dd1-b1fb-4e3d11beeb10.png">
+  <p align="center">Devoted koalas in their common habitat. From top-left to bottom-right: Jingyang Ma, Vincent Chooi, Tilek Chubakov, Abdur-Rahman Olanrewaju, Quentin Lam, Aastha Sharma, Fabian Cabrera. (Saloni Dabgar not present)</p>
+</p>
+
+
+
